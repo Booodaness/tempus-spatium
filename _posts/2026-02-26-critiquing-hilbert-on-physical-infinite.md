@@ -1,5 +1,5 @@
 ---
-title: "Critiquing Hilbert’s Argument Against Realism About Physical Infinities in ‘On the Infinite"
+title: "Critiquing Hilbert’s Argument Against Realism About Physical Infinities in ‘On the Infinite'"
 description: "A critique of Hilbert's flavour of con-existential attitude towards physical infinities, in order to refine theses about the metaphysical status of infinitude — especially in an object language for scientific and mathematical discourse, as well as a suitable metalanguage with pragmatic and semantic dimensions"
 categories: [natural philosophy]
 tags: [ontology, metamathematics, infinitude, Hilbertian finitism, mechanical atomism, problem of collision, Principle of Sufficient Reason, antinomies, Kantianism]
