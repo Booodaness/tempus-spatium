@@ -1,8 +1,8 @@
 ---
 title: "Qualia in Temporal Naturalism (Part 2: Some Philosophical Puzzles)"
 description: "Against traditional physicalism and functionalism"
-categories: [philosophy of mind]
-tags: [qualia, temporal naturalism, Russellian monism]
+categories: [natural philosophy]
+tags: [philosophy of mind, temporal naturalism, Russellian monism, functionalism, qualia]
 ---
 
 ## Introduction
@@ -39,7 +39,7 @@ In other words, if qualia are *psychophysically* correlated to unprecedented eve
 
 [^5]: This is an instance of temporal naturalism’s power of empirical falsifiability, broadly resulting from choosing evolutionary explanations over structural explanations with supra-empirical, timeless metaphysics.
 
-## Nagel's perspectical subjectivity argument
+## Nagel's perspectival subjectivity argument
 
 Although arguments of the above kind probably set a standard Russellian monistic direction for countering knowledge arguments (see Alter & Coleman, 2019), Nagel’s problem, of the perspectival subjectivity of qualia as tokens, remains. The phenomenally particular experiences of a bat, which are rigid descriptors by virtue of *the* bat being itself (in other words, the subjectivity of a first-person experience), cannot be identical to correlated states of Mary (even if she is a bat), whether physical or phenomenal — unless the rigid descriptor ‘*Mary*’ is necessarily identical to the rigid descriptor corresponding to the bat, i.e., Mary *is* the bat experiencing the first-person perspective of the psychophysical world. 
 
@@ -47,7 +47,7 @@ However, temporal naturalism can accept the Nagelian thesis without compromise a
 
 ## Kripke's modal argument
 
-Now, consider the following short, related argument we can construct against Kripke’s modal argument. Even if the rigid descriptor ‘*Mary’s phenomenal experience of pain*’ is modally distinct from the rigid descriptor ‘*Mary’s so-and-so psychophysical state*’, such distinctness does not follow for the rigid descriptors ‘*Mary’s internal experience of pain* + *the causal profile of the pain’s non-internal residue*’ and ‘*Mary’s corresponding unprecedented psychophysical state*’. In other words, necessary correlation (at least effective in some stable cosmic phase) of a token of experience given a psychophysical state can ensure that the experience and psychophysical correlate are not conceivably separable.
+Now, consider the following short, related argument we can construct against Kripke’s modal argument. Even if the rigid descriptor ‘*Mary’s phenomenal experience of pain*’ is modally distinct from the rigid descriptor ‘*Mary’s so-and-so psychophysical state*’, such distinctness does not follow for the rigid descriptors ‘*Mary’s internal experience of pain* + *the causal profile of the pain’s non-internal residue*’ and ‘*Mary’s corresponding unprecedented psychophysical state*’. In other words, necessary correlation (at least effective in some stable cosmic phase) of a token of experience given a psychophysical state can ensure that the experience and psychophysical correlate are conceivably inseparable.
 
 ## Qualia Absence Arguments Against Functionalism
 

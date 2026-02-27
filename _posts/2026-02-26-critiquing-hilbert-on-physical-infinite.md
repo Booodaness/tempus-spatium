@@ -1,0 +1,199 @@
+---
+title: "Critiquing Hilbert’s Argument Against Realism About Physical Infinities in ‘On the Infinite"
+description: "A critique of Hilbert's flavour of con-existential attitude towards physical infinities, in order to refine theses about the metaphysical status of infinitude — especially in an object language for scientific and mathematical discourse, as well as a suitable metalanguage with pragmatic and semantic dimensions"
+categories: [natural philosophy]
+tags: [ontology, metamathematics, infinitude, Hilbertian finitism, mechanical atomism, problem of collision, Principle of Sufficient Reason, antinomies, Kantianism]
+---
+
+> “In verità nulla sappiamo, ché la verità è nell’abisso.”
+> (*In truth we know nothing, for truth is in the abyss.*)
+> — Democritus
+
+## Introduction
+
+In David Hilbert’s essay ‘*On the Infinite*’, he supports his uniquely ‘finitistic’ approach to mathematics, or, at the least, its closest possible realization given the indispensability of infinities as idealized elements simplifying the formalization of mathematical laws (such as arithmetical laws in number theory and geometric laws in projective geometry). For Hilbert, it is not merely the case that some given concept to do with infinity (such as the infinite divisibility of dense subsets of the continuum) is “merely a figure of speech” as it turned out in Weierstrass’ project of formalizing analysis (notwithstanding the hidden appearance of infinities in quantifications over dense subsets); call this thesis *reductive fictionalism about infinities*, or **FIC**. Nor does Hilbert stop at the more general claim that at best, infinity is something that “only exists in thought” possibly in a linguistically irreducible manner, i.e. possibly contrarily to **FIC** (call this *idealism about infinities*, or **IDEA**). Hilbert makes the much more general claim that physical reality, best described by the theoretical physics of his time, indicates emancipation from “the infinitely small”, following developments in statistical mechanics and quantum theory, as well as the infinitely large in cosmology following the successful cosmological application of non-Euclidean geometries such as elliptic geometry viz. compactified solutions to Einstein’s field equations in general relativity. In general, infinite quantities seem to be attacked by modern science, as “nature makes jumps”; call this the denial of *physicalism about infinities* (say **PHYS**), i.e., affirmation of **not**-**PHYS**.
+
+In this essay, I will broadly link the kinds of theses picked out above, motivated by physics up to Hilbert’s time, but sometimes contrasted against clarifications that came *after* him in both physics proper and philosophy, in order to judge the cogency of Hilbert’s arguments. My end goal is to show that by the very standards Hilbert sets in his essay [^1], his particular flavour of con-existential attitude in **PHYS** but pro-existential attitude towards solely finitely extended objects such as atoms, and finite entities such as quanta of energy, amounts to an interaction of two kinds of mistakes: (a) an equivocation and overlooking of various senses of  the words ‘finite’ and ‘infinite’; and, (b) an arbitrary assignment of a conceptual boundary in some suitable metalanguage for talking about mathematical and physical entities, which classifies finite objects as having some kind of fundamental essence and infinite objects as only having some sort of fictitious, instrumental import.
+
+[^1]: I have especially in mind his paragraph about the utility of complex numbers (“*Also old objections … decisions everyone submits.*”) and the succeeding one about how it is not facts or events which can inherently run into contradictions but deductions about them.
+
+Before constructing broad conceptual claims about theses such as **FIC**, **IDEA** and **PHYS**, I will critique the cluster of examples Hilbert mentions to support **not**-**PHYS**. 
+
+## Mechanical atomism
+
+Hilbert argues that even though our consciousness presents the world to us as if its spatiotemporal continuity requires an (uncountable) infinity of parts constituting a continuum, it became “*common knowledge*” that matter is composed of various discrete configurations of atoms which are themselves finitely extended and cannot have smaller parts outside of thought — in particular, infinitely small, pointlike parts.
+
+### Eleatic counter-argument
+
+Now, consider the following rather Eleatic counter-argument which suggests commitment to the reality of pointlike and other volumeless entities in classical atomistic physics [^2].  
+
+### Setting up the argument
+
+Suppose we define rigid bodies as those which occupy nonzero, finite regions of space such that, crucially, *no two numerically distinct rigid bodies may share regions of space with nonzero volume* [^3].  It is still permissible that two rigid objects $A$ and $B$ may *touch* by sharing a set of points with zero volume, thereby constituting a single larger object $A B$.
+
+[^2]: I particularly draw motivation from Marc Lange’s first chapter ‘*What is Spatiotemporal Locality?*’ in his 2002 book *An Introduction to the Philosophy of Physics: Locality, Fields, Energy and Mass*. Following Kline and Matheson’s 1987 paper ‘*The Logical Impossibility of Collision*’, Lange suitably defines rigid objects and spatiotemporal locality in order to overcome Kline and Matheson’s negative claims about the logical possibility of material bodies colliding on mereological grounds.
+
+[^3]: The notion of volume in the ambient space, which is a topological space (since we want to talk about bodies continuously approaching each other and such), can be inherited from the topology in the form of its Borel measure or such if we want minimum structure with the right sort of algebraic closure properties when formalizing the weakest and/or most useful required notion of 'volumes'.
+
+Here, I have not used notations like $A \cup B$ or $A + B$ as I am assuming that within the complex $A B$, the distinct identities of its parts are retained, so that when $A B$ decomposes physically, we can track the original $A$ and $B$, or at the least, their traces; in other words, I have assumed an underlying positive theory of haecceity and a mereology where physical/dynamical wholes need not be simple wholes. This larger object $A B$ may exist for at least an instant of time, until collision or some other process separates the original parts $A$ and $B$. Schematically, we can construct a causal picture of such a process as follows, with each step being a time-indexed state of affairs reflecting a *complete set of causes* (in the sense of Lange, 2002) for the next step in the causal chain. Let the state of affairs at each instant of time be captured in a tuple $(K, I)$ where $K$ is itself the tuple of distinct entities being tracked [^4], which also possess complete causal efficacy on their own (such as atoms and their complexes when they touch), and, $I$ is a tuple of the intersections of distinct spatial regions encoded in $K$. Since we will be looking at systems of rigid bodies, all volumes of $K$-entries are positive and finite whereas volumes of the $I$-entries are zero. Let us denote an arbitrary volumeless region bounded by a set $A$ as some $\nu_i (A)$ [^5].  Finally, for brevity, let us omit parentheses when denoting tuples which have only one entry. Then, a collision process for rigid bodies $A$ and $B$ looks like the following, with arrows $\longrightarrow$ representing a transitive causal relationship: [^6] [^7]
+
+<!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXGxlZnQoIFxcbGVmdCggQSwgQiBcXHJpZ2h0KSwgXFxlbXB0eXNldCBcXHJpZ2h0KSJdLFsxLDAsIlxcbGVmdCggXFxsZWZ0KCBBLCBCIFxccmlnaHQpLCBcXG51X2kgXFxsZWZ0KCBBIFxcY2FwIEIgXFxyaWdodCkgXFxyaWdodCkiXSxbMSwxLCJcXGxlZnQoIEFCLCBcXGVtcHR5c2V0IFxccmlnaHQpIl0sWzAsMSwiXFxsZWZ0KCBcXGxlZnQoIEEsIEIgXFxyaWdodCksXFxudV9qIFxcbGVmdCggQSBcXGNhcCBCIFxccmlnaHQpIFxccmlnaHQpICJdLFswLDEsIlxcdGV4dHthcHByb2FjaH0iXSxbMywwLCJcXHRleHR7c2VwYXJhdGlvbn0iXSxbMSwyLCJcXHRleHR7ZnVzaW9ufSJdLFsyLDMsIlxcdGV4dHtmaXNzaW9ufSJdLFsxLDMsImlkX3tcXG1hdGhjYWx7T31fWF4yIFxcdGltZXMgXFxsZWZ0KCBcXGtlcihcXG1hdGhmcmFre0J9KFgsIFxcbWF0aGNhbHtPfV9YKSBcXGNhcCAoXFxtYXRoY2Fse099X1ggXFxiYWNrc2xhc2ggXFxlbXB0eXNldCkgXFxyaWdodClee0kgXFx0aW1lcyBcXG1hdGhjYWx7T31fWH19IiwxLHsic3R5bGUiOnsidGFpbCI6eyJuYW1lIjoiYXJyb3doZWFkIn0sImJvZHkiOnsibmFtZSI6ImRvdHRlZCJ9fX1dXQ== -->
+<iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXGxlZnQoIFxcbGVmdCggQSwgQiBcXHJpZ2h0KSwgXFxlbXB0eXNldCBcXHJpZ2h0KSJdLFsxLDAsIlxcbGVmdCggXFxsZWZ0KCBBLCBCIFxccmlnaHQpLCBcXG51X2kgXFxsZWZ0KCBBIFxcY2FwIEIgXFxyaWdodCkgXFxyaWdodCkiXSxbMSwxLCJcXGxlZnQoIEFCLCBcXGVtcHR5c2V0IFxccmlnaHQpIl0sWzAsMSwiXFxsZWZ0KCBcXGxlZnQoIEEsIEIgXFxyaWdodCksXFxudV9qIFxcbGVmdCggQSBcXGNhcCBCIFxccmlnaHQpIFxccmlnaHQpICJdLFswLDEsIlxcdGV4dHthcHByb2FjaH0iXSxbMywwLCJcXHRleHR7c2VwYXJhdGlvbn0iXSxbMSwyLCJcXHRleHR7ZnVzaW9ufSJdLFsyLDMsIlxcdGV4dHtmaXNzaW9ufSJdLFsxLDMsImlkX3tcXG1hdGhjYWx7T31fWF4yIFxcdGltZXMgXFxsZWZ0KCBcXGtlcihcXG1hdGhmcmFre0J9KFgsIFxcbWF0aGNhbHtPfV9YKSBcXGNhcCAoXFxtYXRoY2Fse099X1ggXFxiYWNrc2xhc2ggXFxlbXB0eXNldCkgXFxyaWdodClee0kgXFx0aW1lcyBcXG1hdGhjYWx7T31fWH19IiwxLHsic3R5bGUiOnsidGFpbCI6eyJuYW1lIjoiYXJyb3doZWFkIn0sImJvZHkiOnsibmFtZSI6ImRvdHRlZCJ9fX1dXQ==&embed" width="718" height="304" style="border-radius: 8px; border: none;"></iframe>
+
+where $\emptyset$ is the empty set; $(X, \mathcal{O}_X)$ is the ambient topological space with $\mathfrak{B}(X, \mathcal{O}_X)$ as its Borel measure; and $I$ is a set indexing all non-trivially $\mathfrak{B}(X, \mathcal{O}_X)$-volumeless open sets bounded by all possible open sets, i.e., $I$ is appropriately embedded: [^8]
+
+$$\exists \: A \subseteq \left[ \ker\left( \mathfrak{B} \left( X, \mathcal{O}_X \right) \right) \cap \left( \mathcal{O}_X \backslash \emptyset \right) \right]^{\mathcal{P}\left( \mathcal{O}_X \right)} : \left[ A \cong_{\text{Set}} I \right]$$
+
+[^4]: The $K$-entries are such that the objects they represent are not to be equated with the regions of space they occupy, in order to permit complexes of the form $A B C \dots$. Therefore, entries in $K$ can *manifestly* have more internal structure than in sets of points. By '*manifestly*', I mean that I want to rule out trivializing the over-and-above-sets structure of complexes by reducing it using something like, say, a well ordering principle on sets still somewhat directly related to the ontology referentially. 
+
+[^5]: When $A$ and $B$ correspond to atoms i.e. are occupied by objects which are mechanically indivisible, $\nu \left( A \cap B \right)$ can only contain a single point lying on $\partial A \cap \partial B$ where $\partial R$ denotes the boundary of any region $R$. Famously, $\partial^2 = 0$.
+
+[^6]: Note how the *form* of the causal process is time-symmetric if it is allowed to be so due to some underlying mechanical law to the effect of the conservation of total linear momentum. Therefore, if $A$ and $B$ have no initial rotational motions, and linear motions only, then $\nu_i \left(A \cap B \right) = \nu_j \left( A \cap B \right)$, making the evolution formally time-symmetric, at least at the topological level of abstraction (and still not necessarily at the 'lower' geometric level of abstraction). In other words, homology invariance $\not\implies$ homotopy invariance $\not\implies$  hemeomorphism invariance $\not\implies$ diffeomorphism invariance.
+
+[^7]: To be precise, the commutative diagram here resembles a loop in *state space* and not in *phase space*. This amounts to saying that for dissipative systems, since Poincaré recurrence does not apply, we can 'travel along the arrows' to track the system from its initial state-type $\left( (A, B), \emptyset \right)$ only *once* in general, making the arrows *intransitive*. Therefore, my analysis assumes the system being tracked is ergodically conservative i.e. non-dissipative.
+
+[^8]: In an algebraic topological setting with a categorial machinery set up, what we *strictly speaking* need is only an *abstract* set $I$, such that there is a copy of the commutative diagram constructed, with the same nodes and morphisms, except that $I$ in the antidiagonal (dotted) identity map is replaced by the *concrete* set $\left[ \ker\left( \mathfrak{B} \left( X, \mathcal{O}_X \right) \right) \cap \left( \mathcal{O}_X \backslash \emptyset \right) \right]^{\mathcal{P}\left( \mathcal{O}_X \right)}$, such that the original commutative diagram is categorially embedded in the latter diagram due to an underlying mechanism resembling how $I$ is embedded in $\left[ \ker\left( \mathfrak{B} \left( X, \mathcal{O}_X \right) \right) \cap \left( \mathcal{O}_X \backslash \emptyset \right) \right]^{\mathcal{P}\left( \mathcal{O}_X \right)}$.
+
+### The antinomy of the causal efficacy of collisional interfaces
+
+Now, we run into an antinomy here, closely related to the perennial problem of change in the sense of the ancient atomists vs. Eleatics and Aristotelians (compare with Berryman 2022) because either of the following seem to exhaust all logical possibilities, and each possibility independently seems to run into logical contradictions:
+
+(1) (EITHER) The volumeless interface $v \left( A \cap B \right)$ is **dynamically unreal**: therefore, a causal process cannot ‘remember’ the identities of $A$ and $B$ in a complex $A B$ — a physically valid process can only track the regions occupied by $K$-entries, i.e. information contained in items of the type $A \cup B$. Therefore, the *fission* step is difficult to explain unless it is an accident of some conservation law such as that of total linear momentum, which would *prima facie* invoke a teleological-looking explanation. [^9] (OR,)
+
+(2) The volumeless interface $v \left( A \cap B \right)$ is **dynamically real**: somehow, the information which causally flows through this interface, from $A$ to $B$ and from $B$ to $A$ (and into and from parts of the complex $A B$) flows in such a manner that the system of rigid bodies as a whole along with the volumeless interface effectively ‘remembers’ the identities of the original parts $A$ and $B$. The interface is dynamically real in that it plays a discernible causal role for the entire system to have the sort of memory described, in a reductionistically explainable manner.
+
+[^9]: In order to eliminate *prima facie* teleology, consider applying Noether’s theorem here, i.e. derive the relevant conservation laws (linear momentum over time, haecceity under particle permutation including within complexes, etc.) from underlying symmetries of the appropriate physical system as a whole. In other words, suppose from overall translation symmetry, we derive total linear momentum conservation and consequently haecceity conservation under collision (which is a kind of particle permutation at the level of organization of complexes). Then, we still run into a conceptual problem. 
+
+Haecceity conservation under particle permutations is not really a conservation law because ‘haecceity’ cannot be easily quantified in a way that allows us to find currents using divergences, in the language of differential geometry (conserved quantities are currents with vanishing divergence), even though we *might* use a thermodynamical treatment of particle identity and the conserved current in question is then a *probability* current whose conservation yields a *continuity* equation. Nonetheless, haecceity conservation under particle permutations is precisely an example of a *symmetry*, i.e. an operation on a system’s parts which somehow keeps certain of its overall features intact. Therefore, to explain haecceity encoded in symmetries of a system of rigid bodies, using Noether’s theorem, would be to use a conserved quantity as an explainer, which is, again, *prima facie* teleological (unless we link up the unexplained symmetry to some previously explained symmetry).
+
+### Summary
+
+In other words, *something dynamically interesting is going on at the interface of two rigid bodies while they collide*. This interesting series of events is, at first sight, not trivially explained away in a purely relational framework with respect to space (i.e. one where in an explanatory scheme for describing physical processes such as collisions, space cannot possess intrinsic, causally efficacious qualities, and it is only the objects occupying or even more strictly, constituting the web of space, which can possess such intrinsic properties). In my view, this argument is a topological version of a classic Eleatic antinomy directed against atomistic motion, where two pointlike objects cannot touch (they would either occupy the same point, or be separated by a point, or worse, uncountably infinite points in a dense ambient space) and therefore, causal processes like collision seem to exhibit action-at-a-distance. In the topological version, even if we get rid of pointlike objects (as being valid physical and rigid bodies, at the least) and allow objects to touch without sharing nonzero-volumed regions [^10], while we do not have metaphysically unexplained action-at-a-distance, we still have metaphysically unexplained action-at-volumeless-entities which cannot be easily paraphrased into action-between-rigid-entities.
+
+[^10]: Recall that this seems to allow the possibility of haecceity being compatible with geometric dynamics which mostly only cares about the *regions* particles occupy, i.e. information as in items of the type $A \cup B$ rather than $A B$.
+
+### Atomism of electricity
+
+For brevity, I will only mention in passing Hilbert’s comment that atomism about (inert) *matter* as in *kinetic theory*, was also successful for atomism about *electricity* in the form of *electron theory*. Here, an added element is the electric *field*, which allows electrons to appear to collide without touching, by approaching each other and repelling due to the local electric fields at each of their respective locations. Such an account of collision seems to *prima facie* satisfy locality (Lange, 2002) and not invoke arbitrary volumeless interfaces where something markedly ‘interesting’ is going on relative to its surroundings. On the other hand, in classical electrodynamics, an electric field is a continuous vector field, so it is, again, an entity with uncountably infinite parts. Perhaps a *discrete* field theory, in the form of a discrete field on a simplicial complex (rather than a continuous field on a manifold), could come to the rescue here (in the sense of, for instance, Rovelli and Zatloukal, 2019). However, a concrete *metaphysical*, mereological analysis of such a theory, in order to describe a *formal ontology*, would conceivably still be required even after constructing a *mathematical* formulation of the theory, just as we have seen in the case of Newtonian-type rigid-body physics with atoms.
+
+## Early quantum theory
+
+Hilbert implicitly argues that quantum mechanics demonstrates how physical quantities previously thought to be continuous (such as energy) have been more accurately modelled as discrete entities in that they can only *change* by making *jumps*. **Now, whether or not a quantity is discrete in this quantum mechanical sense, depends on the sense in which we say it *changes*. The sense of change here can include important information about metaphysical identity and modality, and to equivocate different senses of change here can consequently amount to equivocating different metaphysical senses of ‘finite’ and ‘infinite’**. 
+
+More precisely: Hilbert can only restate the special quantum mechanical corollary [^11] that *particles in bound states, i.e. particles confined to finite regions by attractive potentials, necessarily have discrete energy spectra i.e. permissible energy values* (which are also the eigenvalues of the Hamiltonian operator for the particle).
+
+[^11]: of the general quantum mechanical postulates as well as indexical choices of parameters for the special physical systems which yield discrete energy jumps (‘unspecial’ systems will be discussed below)
+
+Here, then are various ways (non-exhaustively) that the above special fact is still compatible with the seeming appearance of *physical* infinities in our object language.
+
+### Non-attractive potentials
+
+Particles in some repulsive fields, and famously, *free particles*, are allowed to have energy states corresponding to *any* value in some topologically dense domain, such as the entirety of the set of real numbers ($\mathbb{R}$)! Moreover, the energy of such a particle can change (on average across ensembles of particles with the same wavefunction) *continuously* rather than discretely when it is part of a larger system. For example, a[n average] particle in a repulsive field can approach the field’s source from infinity and bounce back continuously, as part of a *scattering process*. In general, the overall energy of the particle, encoded in its Hamiltonian operator, enjoys contributions from the particle’s potential energy, which is modelled by a classical, continuous function $V(\pmb{r})$ where $\pmb{r}$ is position in $\mathbb{R}^3$ (which is, again, topologically dense!). This allows the potential, and consequently, the Hamiltonian, to assume any of an uncountable infinity of permissible values. Moreover, the Hamiltonian can also change in time for an ensemble of particles by going from one valid value to another continuously as the particle moves continuously in $\mathbb{R}^3$.
+
+In general, a non-classical treatment of the potential energy function would require quantizing not just the particle’s motion in isolation but also its *surroundings*, which is achieved by *second quantization* in quantum *field* theories. Once again, quantum field theories typically involve not-necessarily-discrete fields on classical i.e. continuous spacetimes, unless one considers discrete approaches in quantum gravity such as spin foam, causal sets, energetic causal sets and so on.
+
+### Observables except the Hamiltonian
+
+Even though a bounded particle has discrete gaps in its *energy* eigenvalues when measured, the system as a whole can still have other observables which have *continuous* spectra when measured instead of energy. For example, a free particle and even some bounded particles can have continuous spectra for their position operators, as was seen above.
+
+In general, due to the Stone–von Neumann theorem, *Dirac quantization is logically inconsistent for operators with a finite number of eigenvalues*. Roughly speaking, this happens because in canonical commutation relations $[A, B] = i \hbar I$, when $A$ and $B$ have a finite number of eigenvalues, comparing the traces of both sides of the commutation relation gives $0 = i \hbar$, which is a contradiction.
+
+One way out of this problem is to use *geometric quantization* instead of Dirac quantization. However, geometric quantization heavily uses the theory of Kähler manifolds (and in general, Poisson manifolds) and Hilbertian finitism in such a context deserves its own proper investigation. 
+
+### Absolute energy
+
+Even though *changes* or jumps in the energy eigenvalues of a bound system are discrete, the *absolute* energy of the system for some initial condition (which has operational definitions via thermodynamics, for instance [^12]) can be *less* than the minimum difference in distinct eigenvalues. For example, a *quantum harmonic oscillator* has discrete differences in energy eigenvalues which are integral multiples of $\hbar\omega$ ($\omega$ is analogous to classical angular frequency of a harmonic oscillator) but nevertheless, the ground state, or lowest-energy state, is $\displaystyle{\frac{1}{2} \hbar \omega}$ (followed by higher-energy states corresponding to $\displaystyle{\frac{3}{2} \hbar \omega, \frac{5}{2} \hbar \omega, \dots}$ and so on in increments of $\hbar \omega$ as usual). 
+
+[^12]: This line of thought was inspired by the following section from Lange, 2002 (emphasizing in bold my own): “_Like the ghost's position, the electric potential's absolute value is not needed to account for anything. Isn't it reasonable, then, to conclude that the electric potential, like the ghost, is unreal? **This argument for the potential's unreality is fairly strong but certainly not utterly conclusive**. That the potential's absolute values at various locations (over and above the potential's relative values) have no observable consequences in classical physics (as Faraday discovered in his cube) does not rule out the possibility that as physics progresses, we will discover some means of determining experimentally the potential's absolute value at a given location. **As further discoveries are made, a quantity once thought observationally inaccessible may become detectable.**_”
+
+Admittedly, admitting halves into an ontology built strictly on integral wholes would still conceivably be ‘finite’ in Hilbert’s sense. Nonetheless, a picture is beginning to emerge that ‘quantum-ness’ is, roughly speaking, *sufficiently* indicated by instances of ‘jumps’ where it would be classically unexpected, but not *necessarily* indicated as such. Equivalently, the discrete jumps are *contingent* in the set of quantum-mechanically possible worlds.
+
+### A strange ficitious universe
+
+Relatedly to the above, consider the following thought experiment. Even if our universe were such that every particle were practically infinitely distant from each other and each particle were isolated in an attractive potential, it would be quantum mechanically consistent for the universe to be infinite in the sense that it has such a variety of particles that while a given particle can only possibly have a discrete energy value from a countably infinite set $A$ (leaving $\mathbb{R} \backslash A$ as an unrealized set of energy eigenvalues), *other* particles can collectively make up for the unrealized energy eigenvalues in $\mathbb{R} \backslash A$, so that any given real-valued energy can possibly be realized somewhere in the universe. In fact, one can strengthen this argument to apply to any dense subset of $\mathbb{R}$ in general.
+
+## General relativity
+
+As mentioned in the beginning of this essay, Hilbert justifiably separates the notions of infinite *extension* and topological *unboundedness*, which is a logically valid and in fact, indispensable feature in Einstein’s general theory of relativity (which has itself met with extraordinary empirical success). For the purposes of this essay, and especially the intertwining criticisms above based on different senses of finiteness and infinities, I find Hilbert’s cosmological account satisfactory and cautious (not to belittle Hilbert’s deep insight and original contributions surrounding classical and quantum mechanics even outside of cosmology, of course).
+
+## Broad counterargument
+
+Now, I will briefly pose a conceptually broad counterargument (in the sense of the theses **FIC**, **IDEA** and **not**-**PHYS** about infinity) to the above criticisms, followed by a rebuttal. 
+
+One can imagine Hilbert responding to the above criticisms as follows. Even though infinite quantities seem to prevail in calculations in spite of working in an atomistic ontology for classical physics or an entirely quantum mechanical ontology whether second-quantized or not, the sociolinguistic *purpose* of these infinities is to simplify our calculations, which are ultimately *used* for and *verified* by *finite* entities, such as empirical data from physical experiments. So, it is no surprise (especially from the point of view of **IDEA**) that infinities seem to never go away from abstracted, simplified models, no matter how much we complicate these models within an ultimately imperfect paradigm. 
+
+As an analogy: one can simplify calculations of surface currents on an ocean by ignoring the interactions between the layers of fluid near the surface and those near the ocean floor, which can operationally, in our *calculations* (which are not properly physical entities in a sensible semantics!) correspond to the useful fiction of treating the depth of the ocean as infinite. Nevertheless, an adherent of **IDEA** can conceivably set up a description for the actual *activity* of scientists (such as the activity of using calculations to operationally ‘approximate reality’) which is compatible with Hilbert’s finitism about objects being referred to in a metaphysically adequate scientific language (which is a part of scientific activities).
+
+In a sense, such an **IDEA** adherent has moved possibly irreducible infinitude-talk from the object language of science to a suitable *naturalized* metalanguage with semantic and pragmatic aspects:
+
+- Calculations are in their most rigorous form *proofs*, and proofs are finite combinatorial objects which are valid under all interpretations, crucially including ones compatible with empirical data suitably dressed using intermediate interpretations using other parts of the overall theory, or some other theory, within the whole web of knowledge. Therefore, it is only the syntax of such proofs that requires explanation in terms of its utility, and it seems to lie in the fact that the syntax maximizes valid data-compatible interpretations while minimizing exceptions and unexplained complexity. In other words, scientists solve clusters of problems and find certain useful organizing principles which give a certain form to their arguments, and this paradigmatic form holds true across a wide range of circumstances and to some degree, by convention [^13]. That some interpretations of such forms are infinity-friendly might be a category mistake, or a useful fiction, or a limitation of such syntax to begin with, but none of these would necessarily require **PHYS**.
+
+- If calculations are, more pragmatically, not viewed as formal proofs, the point holds that ‘one must not take infinities seriously’, especially *because* calculations need not be taken literally now, and are, instead, first and foremost, useful in a wide range of contexts and partly so by clearly modelling structural features of imperfect abstractions of the phenomenon at hand.
+
+Even if **IDEA** holds, such points suggest that at the least, the appearance of infinities as potentially indispensable concepts is not *additionally* mysterious against the general, permeating ‘unreasonable effectiveness’ of mathematical theories which otherwise severely underdetermine actual states of affairs (since there are, besides those involving infinity, other potentially unintended interpretations of the formal systems our physical theories are axiomatized in). For instance, in a naturalist setting, since one need not believe that useful tensors correspond to real tensor-like physical entities, the same may be said of useful infinite entities in models. In fact, one may argue that it is only an underlying attitude resembling some *correspondence* theory of mathematically structured theories that makes mathematically or psychologically mysterious entities like infinity bring to mind the vivid idea of the physical mystery of infinity as some possible item of existence. But such a thought process could merely be a Humean habit acquired from simpler cases in the past, where it seemed to be useful to meditate on mathematical theories as if their structure were correspondingly reflected in reality, in a sufficiently direct manner (the manner which naturalism is supposed to attack).
+
+[^13]: By ‘convention’ in scientific communities, I have in mind some combination of Kuhn’s normal science, Sellars’ conceptually irreducible norms, the middle and later Wittgenstein’s language-games and especially Poincare’s neo-Kantian conventionalism, if not many, many more related ideas in related philosophical traditions which directly or indirectly study normativity, rationality and such.
+
+## Broad rebuttal
+
+While I cannot conclusively argue against such a counterargument as the above, I have the following sort of picture in mind: if the above account be true, that theoretical infinities are not any more mysterious than theoretical finitude, then why should theoretical finitude be any more ‘real’ than theoretical infinitude? If degree of ‘reality’ (such as in our natural language intuition, or acquired intuition from a scientific image in the sense of Sellars) corresponds to lesser ‘mystery’, and lesser ‘mystery’ corresponds to greater explainability given our theories, then there seems to be no *sufficient reason* that mathematics, let alone any theory of finite entities, is indispensable for the rationally ‘successful’ activities of the scientific community. From a Bayesian point of view, if we further paraphrase greater ‘explainability’ as more ‘frequently theorized about successfully (either actually or presumably in a logical space of reasons)’, then there remains the unexplained explainer FORM (the indispensability of the forms of finitude in various symbol games) — the thesis that *intuitions about the finite, even when axiomatized to admit formal infinities, tend to be especially **initially** indispensable for building languages for successfully formalizing physics, and especially languages with the same degree of success as differential geometry* [^14].  
+
+[^14]: For applying the principle of charity as far as I can see it here, I have incorporated an implicit Hilbertian argument that a rich extent of mathematical problems of the kind found in differential geometry are computable in formal systems viz. synthetic differential geometry, differentially cohesive $(\infty, 1)$-topoi (in which one can do cohesive cohomology and hence, higher gauge field theory; see Wellen, 2017), higher Cartan geometry in cohesive homotopy type theory, manifolds definable on bounded o-minimal structures and so on.
+
+This indispensability principle for the finite holds whether or not bootstrapping from the finite to the infinite is justifiably motivated by *physical* infinities (as in **PHYS**) or is instead a purely *linguistic* move, conceptually irreducible or not (as in **IDEA**).
+
+All in all, my rebuttal of Hilbertian finitism on the grounds of reductive fictionalism about infinitude is that while there is an explanatory, or at the least, psychological asymmetry between finitude and infinitude even in a metalanguage rather than an object language for science and mathematical theories, this asymmetry should not allow us *a priori* to draw a line between finitistic talk and infinitude-talk in a way which marks finitistic talk as being referentially closer to the ontology (whether manifestly physicalistic or idealistic) of the object language than infinitude-talk [^15]. After all, FORM might as well be *a posteriori* unless we argue that rational scientific discourse is necessarily inconceivable without FORM as a sort of synthetic *a priori* principle.
+
+[^15]: Such a move arguably ‘hides the mystery’ of **FORM** as a side effect of naturalistic talk hiding reality from object language ‘further away’ than more referential talk would do.
+
+## Conclusion
+
+In conclusion, my arguments so far seem to be to the effect that what is finite and what is not is very contextual even in traditionally axiomatized theories like quantum theory, and whether this division of concepts correlates to that between reality and fictionalism, is not immediately obvious even in classical atomistic mechanics. Therefore, in order to not lean too heavily for or against physicalism about infinitude (**PHYS**), I critiqued a certain form of idealism about infinities (**IDEA**). This idealism being potentially presentable naturalistically, I implicitly invoked a Principle of Sufficient Reason (**PSR**) to argue that while there is still a genuinely unexplained phenomenon — the potential aposteriority of FORM, i.e., the indispensability of formalizing aspects of finite and discrete entities — **FORM** nevertheless does not immediately justify attributing greater potential for metaphysical ‘reality’ to finitude as opposed to infinitude (at least outside of a probabilistic, contingent framework such as a Bayesian one). This is compatible with Hilbertian finitism if the case can be made *for* something like the synthetic apriority of FORM and/or *against* **PSR** or its variant, so that **FORM** presented naturalistically does not hide any metaphysical mystery, even if the epistemic and psychological asymmetry between finitude and infinitude holds.
+
+---
+
+## References
+
+1.	Berryman, S. (2022, October 18). *Ancient Atomism* (Section 2.3. Minima Naturalia in Aristotelian Thought). Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/atomism-ancient/#MiniNatuArisThou
+
+2.	Bird, A. (2025, September 2). *Thomas Kuhn* (Section 3. The Concept of a Paradigm). Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/thomas-kuhn/#ConPar
+
+3.	Dirac, P. A. M. (1984). *The Principles of Quantum Mechanics*. Clarendon Press.
+
+4.	Easwaran, K., Hájek, A., Mancosu, P., & Oppy, G. (2025, May 2). *Infinity* (Section 8. Space and Time). Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/infinity/#SpacTime
+
+5.	Gray, J., & Ferreirós, J. (2025, September 26). *Epistemology of Geometry* (Section 5.2. Helmholtz and Poincaré). Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/epistemology-geometry/#HelmPoin
+
+6.	Griffiths, D. J. & S., Darrell F. (2018). *Introduction to Quantum Mechanics*. (3rd ed.). Cambridge University Press.
+
+7.	Hilbert, D. (1984). On the Infinite. In P. Benacerraf & H. Putnam (Eds.), *Philosophy of Mathematics: Selected Readings* (pp. 183–201). chapter, Cambridge: Cambridge University Press.
+
+8.	Khavkine, I., & Schreiber, U. (2017, January 23). *Synthetic Geometry of Differential Equations: I. Jets and Comonad Structure.* arXiv. https://arxiv.org/abs/1701.06238
+
+9.	Lange, M. (2011). *An Introduction to the Philosophy of Physics: Locality, Fields, Energy, and Mass*. Blackwell.
+
+10.	Melamed, Y. Y., & Lin, M. (2023, June 14). *Principle of Sufficient Reason*. Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/sufficient-reason/
+
+11.	Morris, S. A. (1985). *Topology Without Tears*. Sidney A. Morris.
+
+12.	nLab authors. (2011a). *Cohesive Homotopy Type Theory*. nLab. https://ncatlab.org/nlab/show/cohesive+homotopy+type+theory
+
+13.	nLab authors. (2011b). *Differential Cohesive (infinity,1)-topos*. nLab. https://ncatlab.org/nlab/show/differential+cohesive+%28infinity%2C1%29-topos
+
+14.	nLab authors. (2009). *Geometric Quantization*. nLab. https://ncatlab.org/nlab/show/geometric+quantization
+
+15.	nLab authors. (2009). *Synthetic Differential Geometry*. nLab. https://ncatlab.org/nlab/show/synthetic+differential+geometry
+
+16.	O’Shea, J. (2008). Wilfrid Sellars: *Naturalism with a Normative Turn*. Polity Press.
+
+17.	Raatikainen, P. (2025, October 8). *Gödel’s Incompleteness Theorems*. Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/goedel-incompleteness/
+
+18.	Rodych, V. (2018, January 31). *Wittgenstein’s Philosophy of Mathematics* (Section 3.2. Wittgenstein’s Later Finitistic Constructivism). Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/wittgenstein-mathematics/#WittLateFiniCons
+
+19.	Rovelli, C., & Zatloukal, V. (2019). *Natural Discrete Differential Calculus in Physics*. Foundations of Physics, 49(7), 693–699.
+
+20.	Susskind, L., & Friedman, A. (2015). *Quantum Mechanics: The Theoretical Minimum*. Basic Books.
+
+21.	Susskind, L., & Hrabovsky, G. (2014). *Classical mechanics: The Theoretical Minimum*. Penguin Books.
+
+22.	Wellen, F. (2017). *Formalizing Cartan Geometry in Modal Homotopy Type Theory*. nLab. https://ncatlab.org/schreiber/show/thesis%20Wellen

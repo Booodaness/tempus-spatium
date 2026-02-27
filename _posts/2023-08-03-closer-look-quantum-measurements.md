@@ -1,7 +1,7 @@
 ---
 title: "A Closer Look at Quantum Measurements (Slides)"
 description: "And how the Born rule can be generalized and derived from some principles of measurement"
-categories: [quantum mechanics]
+categories: [quantum foundations]
 tags: [measurement problem, density operators, slides]
 iframe:
     asset: true

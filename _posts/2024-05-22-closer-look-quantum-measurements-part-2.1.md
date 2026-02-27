@@ -1,7 +1,7 @@
 ---
 title: "A Closer Look at Quantum Measurements: Part 2.1 (Classical Stern-Gerlach Experiments)"
 description: "How the classical physics of Stern-Gerlach experiments is surprisingly rich"
-categories: [quantum mechanics]
+categories: [quantum foundations]
 tags: [Stern-Gerlach experiments, measurement problem]
 ---
 

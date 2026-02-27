@@ -1,8 +1,8 @@
 ---
 title: "Qualia in Temporal Naturalism (Part 1: Towards Cosmoprotopsychism)"
 description: "How Lee Smolin's framework of temporal naturalism can surprisingly describe qualia in the manner of Russellian monism"
-categories: [philosophy of mind]
-tags: [qualia, temporal naturalism, Russellian monism]
+categories: [natural philosophy]
+tags: [philosophy of mind, temporal naturalism, Russellian monism, functionalism, qualia]
 ---
 
 ## Introduction

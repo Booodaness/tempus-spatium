@@ -1,7 +1,7 @@
 ---
 title: "A Tale of Two Quantities"
 description: "Which is more fundamental — charge or current?"
-categories: [fundamentals]
+categories: [classical field theory]
 tags: [measurement, narrative]
 redirect_from: tale-of-two-quantities
 ---
