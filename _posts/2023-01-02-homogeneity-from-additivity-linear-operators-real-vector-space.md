@@ -1,7 +1,7 @@
 ---
 title: "Homogeneity From Additivity for Linear Operators on a Real Vector Space"
 description: "How Dedekind cuts provide homogeneity for free from additivity"
-categories: [analysis]
+categories: [abstract algebra]
 tags: [linear operators, Dedekind cuts]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Components of Covariant Derivative of a Tensor Field"
 description: "Deriving the components of the covariant derivative of an arbitrary tensor field"
-categories: [tensor calculus]
+categories: [differential geometry]
 tags: [covariant derivatives, tensors]
 redirect_from: covariant-derivative-tensor-field-components
 ---
