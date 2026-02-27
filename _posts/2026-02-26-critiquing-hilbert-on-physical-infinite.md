@@ -156,41 +156,41 @@ In conclusion, my arguments so far seem to be to the effect that what is finite 
 
 ## References
 
-1.	Berryman, S. (2022, October 18). *Ancient Atomism* (Section 2.3. Minima Naturalia in Aristotelian Thought). Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/atomism-ancient/#MiniNatuArisThou
+1.	Berryman, S. (2022, October 18). *Ancient Atomism* (Section 2.3. Minima Naturalia in Aristotelian Thought). Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/atomism-ancient/#MiniNatuArisThou](https://plato.stanford.edu/entries/atomism-ancient/#MiniNatuArisThou)
 
-2.	Bird, A. (2025, September 2). *Thomas Kuhn* (Section 3. The Concept of a Paradigm). Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/thomas-kuhn/#ConPar
+2.	Bird, A. (2025, September 2). *Thomas Kuhn* (Section 3. The Concept of a Paradigm). Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/thomas-kuhn/#ConPar](https://plato.stanford.edu/entries/thomas-kuhn/#ConPar)
 
 3.	Dirac, P. A. M. (1984). *The Principles of Quantum Mechanics*. Clarendon Press.
 
-4.	Easwaran, K., Hájek, A., Mancosu, P., & Oppy, G. (2025, May 2). *Infinity* (Section 8. Space and Time). Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/infinity/#SpacTime
+4.	Easwaran, K., Hájek, A., Mancosu, P., & Oppy, G. (2025, May 2). *Infinity* (Section 8. Space and Time). Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/infinity/#SpacTime](https://plato.stanford.edu/entries/infinity/#SpacTime)
 
-5.	Gray, J., & Ferreirós, J. (2025, September 26). *Epistemology of Geometry* (Section 5.2. Helmholtz and Poincaré). Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/epistemology-geometry/#HelmPoin
+5.	Gray, J., & Ferreirós, J. (2025, September 26). *Epistemology of Geometry* (Section 5.2. Helmholtz and Poincaré). Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/epistemology-geometry/#HelmPoin](https://plato.stanford.edu/entries/epistemology-geometry/#HelmPoin)
 
 6.	Griffiths, D. J. & S., Darrell F. (2018). *Introduction to Quantum Mechanics*. (3rd ed.). Cambridge University Press.
 
 7.	Hilbert, D. (1984). On the Infinite. In P. Benacerraf & H. Putnam (Eds.), *Philosophy of Mathematics: Selected Readings* (pp. 183–201). chapter, Cambridge: Cambridge University Press.
 
-8.	Khavkine, I., & Schreiber, U. (2017, January 23). *Synthetic Geometry of Differential Equations: I. Jets and Comonad Structure.* arXiv. https://arxiv.org/abs/1701.06238
+8.	Khavkine, I., & Schreiber, U. (2017, January 23). *Synthetic Geometry of Differential Equations: I. Jets and Comonad Structure.* arXiv. [https://arxiv.org/abs/1701.06238](https://arxiv.org/abs/1701.06238)
 
 9.	Lange, M. (2011). *An Introduction to the Philosophy of Physics: Locality, Fields, Energy, and Mass*. Blackwell.
 
-10.	Melamed, Y. Y., & Lin, M. (2023, June 14). *Principle of Sufficient Reason*. Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/sufficient-reason/
+10.	Melamed, Y. Y., & Lin, M. (2023, June 14). *Principle of Sufficient Reason*. Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/sufficient-reason/](https://plato.stanford.edu/entries/sufficient-reason/)
 
 11.	Morris, S. A. (1985). *Topology Without Tears*. Sidney A. Morris.
 
-12.	nLab authors. (2011a). *Cohesive Homotopy Type Theory*. nLab. https://ncatlab.org/nlab/show/cohesive+homotopy+type+theory
+12.	nLab authors. (2011a). *Cohesive Homotopy Type Theory*. nLab. [https://ncatlab.org/nlab/show/cohesive+homotopy+type+theory](https://ncatlab.org/nlab/show/cohesive+homotopy+type+theory)
 
-13.	nLab authors. (2011b). *Differential Cohesive (infinity,1)-topos*. nLab. https://ncatlab.org/nlab/show/differential+cohesive+%28infinity%2C1%29-topos
+13.	nLab authors. (2011b). *Differential Cohesive (infinity,1)-topos*. nLab. [https://ncatlab.org/nlab/show/differential+cohesive+%28infinity%2C1%29-topos](https://ncatlab.org/nlab/show/differential+cohesive+%28infinity%2C1%29-topos)
 
-14.	nLab authors. (2009). *Geometric Quantization*. nLab. https://ncatlab.org/nlab/show/geometric+quantization
+14.	nLab authors. (2009). *Geometric Quantization*. nLab. [https://ncatlab.org/nlab/show/geometric+quantization](https://ncatlab.org/nlab/show/geometric+quantization)
 
-15.	nLab authors. (2009). *Synthetic Differential Geometry*. nLab. https://ncatlab.org/nlab/show/synthetic+differential+geometry
+15.	nLab authors. (2009). *Synthetic Differential Geometry*. nLab. [https://ncatlab.org/nlab/show/synthetic+differential+geometry](https://ncatlab.org/nlab/show/synthetic+differential+geometry)
 
 16.	O’Shea, J. (2008). Wilfrid Sellars: *Naturalism with a Normative Turn*. Polity Press.
 
-17.	Raatikainen, P. (2025, October 8). *Gödel’s Incompleteness Theorems*. Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/goedel-incompleteness/
+17.	Raatikainen, P. (2025, October 8). *Gödel’s Incompleteness Theorems*. Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/goedel-incompleteness/](https://plato.stanford.edu/entries/goedel-incompleteness/)
 
-18.	Rodych, V. (2018, January 31). *Wittgenstein’s Philosophy of Mathematics* (Section 3.2. Wittgenstein’s Later Finitistic Constructivism). Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/wittgenstein-mathematics/#WittLateFiniCons
+18.	Rodych, V. (2018, January 31). *Wittgenstein’s Philosophy of Mathematics* (Section 3.2. Wittgenstein’s Later Finitistic Constructivism). Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/wittgenstein-mathematics/#WittLateFiniCons](https://plato.stanford.edu/entries/wittgenstein-mathematics/#WittLateFiniCons)
 
 19.	Rovelli, C., & Zatloukal, V. (2019). *Natural Discrete Differential Calculus in Physics*. Foundations of Physics, 49(7), 693–699.
 
@@ -198,6 +198,6 @@ In conclusion, my arguments so far seem to be to the effect that what is finite 
 
 21.	Susskind, L., & Hrabovsky, G. (2014). *Classical mechanics: The Theoretical Minimum*. Penguin Books.
 
-22.	Wellen, F. (2017). *Formalizing Cartan Geometry in Modal Homotopy Type Theory*. nLab. https://ncatlab.org/schreiber/show/thesis%20Wellen
+22.	Wellen, F. (2017). *Formalizing Cartan Geometry in Modal Homotopy Type Theory*. nLab. [https://ncatlab.org/schreiber/show/thesis%20Wellen](https://ncatlab.org/schreiber/show/thesis%20Wellen)
 
 ---
