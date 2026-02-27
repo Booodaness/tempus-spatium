@@ -2,7 +2,7 @@
 title: "Qualia in Temporal Naturalism (Part 2: Some Philosophical Puzzles)"
 description: "Against traditional physicalism and functionalism"
 categories: [natural philosophy]
-tags: [philosophy of mind, temporal naturalism, Russellian monism, functionalism, qualia]
+tags: [philosophy of mind, temporal naturalism, philosophy of time, Russellian monism, functionalism, qualia]
 ---
 
 ## Introduction

@@ -1,8 +1,8 @@
 ---
 title: "Thomson's Lamp and Multivaluedness"
 description: "The famous lamp will keep you in the dark, no more"
-categories: [analysis, infinitude]
-tags: [supertasks]
+categories: [analysis]
+tags: [supertasks, infinitude, philosophy of time]
 ---
 
 ## A Supertask
