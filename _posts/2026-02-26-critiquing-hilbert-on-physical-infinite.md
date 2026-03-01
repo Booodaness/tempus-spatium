@@ -6,7 +6,9 @@ tags: [ontology, metamathematics, infinitude, Hilbertian finitism, mechanical at
 ---
 
 > “In verità nulla sappiamo, ché la verità è nell’abisso.”
+>
 > (*In truth we know nothing, for truth is in the abyss.*)
+>
 > — Democritus
 
 ## Introduction
