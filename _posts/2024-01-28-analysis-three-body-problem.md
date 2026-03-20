@@ -2,7 +2,7 @@
 title: "Analysis of the Three-body Problem (Report)"
 description: "Geometry, chaos and simulation"
 categories: [classical mechanics]
-tags: [homotopy, non-holonomic mechanics, problem of collision, N-body problem, stability]
+tags: [homotopy, non-holonomic mechanics, problem of collision, N-body problem, stability, slides]
 iframe:
     asset: true
     path: "pdf/posts/analysis-three-body-problem/final.pdf"
