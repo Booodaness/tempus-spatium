@@ -20,7 +20,7 @@
   url: 'https://mathstodon.xyz/@Booodaness'
 -
   type: bluesky
-  icon: 'fab fa-bluesky'
+  icon: 'fab fa-square-bluesky'
   url: 'https://bsky.app/profile/sid31415.bsky.social'
 -
   type: email
