@@ -27,7 +27,7 @@ The polarization vector for $$\pmb{\psi}$$ is given by the Jones 2-vector $$\vec
 
 $$\pmb{\psi}(\pmb{x}, t) = \Psi\left(z \: \widehat{\pmb{e}}_z, t, \vec{\phi}\right) \vec{A} = \Phi\left(z \: \widehat{\pmb{e}}_z, t\right) \vec{J}$$
 
-where $A^x, A^y$ represent the amplitudes of the $$x$$ and $$y$$ polarization states and $$\phi^x, \phi^y$$ are analogous to their phase factors. Furthermore, $$\left\lvert \Phi(z \: \widehat{\pmb{e}}_z, t) \right\rvert = 1$$ for all $$z, t \in \mathbb{R}$$. For plane waves, one can write,
+where $$A^x, A^y$$ represent the amplitudes of the $$x$$ and $$y$$ polarization states and $$\phi^x, \phi^y$$ are analogous to their phase factors. Furthermore, $$\left\lvert \Phi(z \: \widehat{\pmb{e}}_z, t) \right\rvert = 1$$ for all $$z, t \in \mathbb{R}$$. For plane waves, one can write,
 
 $$
 \begin{align*}
@@ -50,15 +50,15 @@ According to classical physics, the output of $$\mathcal{A}_{\theta}$$ is a beam
 
 $$\pmb{\psi}' = \left( \widehat{\pmb{e}}_{\theta} \cdot \widehat{J} \right) \Phi(z \: \widehat{\pmb{e}}_z, t) R_{\theta - \angle(\vec{J})}\left( \vec{J} \right)$$
 
-where $R_{\phi}$ is the standard 2-rotation by angle $$\phi \in [0, 2 \pi]$$ on the $$xy$$-plane and,
+where $$R_{\phi}$$ is the standard 2-rotation by angle $$\phi \in [0, 2 \pi]$$ on the $$xy$$-plane and,
 
 $$\angle(\vec{J}) = \tan^{-1} \left( \frac{J^y}{J^x} \right)$$
 
-Since energy is proportional to amplitude squared in wave mechanics, the energy $$E'$$ of the $$\pmb{\psi}'$$-wave is given in terms of that of the original $\pmb{\psi}$-wave as,
+Since energy is proportional to amplitude squared in wave mechanics, the energy $$E'$$ of the $$\pmb{\psi}'$$-wave is given in terms of that of the original $$\pmb{\psi}$$-wave as,
 
 $$E' = \left\lvert \pmb{\psi}' \right\rvert^2 E = \left( \widehat{\pmb{e}}_{\theta} \cdot \widehat{J} \right)^2 E$$
 
-Due to the triangle inequality, $E_{\pmb{\psi}'} \leq E_{\pmb{\psi}}$ and the two are equal if and only if $\vec{J}$ is oriented along $\pm \widehat{\pmb{e}}_{\theta}$.
+Due to the triangle inequality, $$E_{\pmb{\psi}'} \leq E_{\pmb{\psi}}$$ and the two are equal if and only if $$\vec{J}$$ is oriented along $$\pm \widehat{\pmb{e}}_{\theta}$$.
 
 ## Compound setup
 
@@ -80,7 +80,7 @@ $$
 \end{align*}
 $$
 
-In fact, for a series of $n$ analyzers $$\mathcal{A}_{\theta_1}, \dots, \mathcal{A}_{\theta_n}$$, one has,
+In fact, for a series of $$n$$ analyzers $$\mathcal{A}_{\theta_1}, \dots, \mathcal{A}_{\theta_n}$$, one has,
 
 $$\pmb{\psi}_n = \left( \prod_{k=1}^{n-1} \cos(\theta_{k+1} - \theta_k) \right) \left( \widehat{\pmb{e}}_{\theta_1} \cdot \widehat{J} \right) \Phi(z \: \widehat{\pmb{e}}_z, t) R_{\theta_n - \angle(\vec{J})}\left( \vec{J} \right)$$
 
