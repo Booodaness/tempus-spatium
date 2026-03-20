@@ -19,6 +19,10 @@
   icon: 'fab fa-mastodon'
   url: 'https://mathstodon.xyz/@Booodaness'
 -
+  type: bluesky
+  icon: 'fab fa-bluesky'
+  url: 'https://bsky.app/profile/sid31415.bsky.social'
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
