@@ -5,7 +5,7 @@ categories: [classical mechanics]
 tags: [homotopy, non-holonomic mechanics, problem of collision, N-body problem, stability]
 iframe:
     asset: true
-    path: "pdf/posts/2024-01-28-analysis-three-body-problem/final.pdf"
+    path: "pdf/posts/analysis-three-body-problem/final.pdf"
     options: "view=FitH"
 ---
 

@@ -6,7 +6,7 @@ tags: [bundles, gauge invariance, slides]
 toc: false
 iframe: 
     asset: true
-    path: "pdf/posts/2023-06-29-bundles-classical-gauge-field-theory/main.pdf"
+    path: "pdf/posts/bundles-classical-gauge-field-theory/main.pdf"
     options: "view=FitH"
 ---
 

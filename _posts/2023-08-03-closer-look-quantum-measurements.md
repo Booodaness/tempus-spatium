@@ -5,7 +5,7 @@ categories: [quantum foundations]
 tags: [measurement problem, density operators, slides]
 iframe:
     asset: true
-    path: "pdf/posts/2023-08-03-closer-look-quantum-measurements/main.pdf"
+    path: "pdf/posts/closer-look-quantum-measurements/main.pdf"
     options: "view=FitH"
 ---
 
