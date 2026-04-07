@@ -98,7 +98,7 @@ In general, a non-classical treatment of the potential energy function would req
 
 Even though a bounded particle has discrete gaps in its *energy* eigenvalues when measured, the system as a whole can still have other observables which have *continuous* spectra when measured instead of energy. For example, a free particle and even some bounded particles can have continuous spectra for their position operators, as was seen above.
 
-In general, due to the Stone–von Neumann theorem, *Dirac quantization is logically inconsistent for operators with infinite spectra*. Roughly speaking, this happens because in canonical commutation relations $$[A, B] = i \hbar I$$, when $$A$$ and $$B$$ have a finite number of eigenvalues, comparing the traces of both sides of the commutation relation gives $$0 = i \hbar$$, which is a contradiction.
+In general, due to the Stone–von Neumann theorem, *Dirac quantization is logically inconsistent for operators with finite spectra*. Roughly speaking, this happens because in canonical commutation relations $$[A, B] = i \hbar I$$, when $$A$$ and $$B$$ have a finite number of eigenvalues, comparing the traces of both sides of the commutation relation gives $$0 = i \hbar$$, which is a contradiction.
 
 One way out of this problem is to use *geometric quantization* instead of Dirac quantization. However, geometric quantization heavily uses the theory of Kähler manifolds (and in general, Poisson manifolds) and Hilbertian finitism in such a context deserves its own proper investigation. 
 
